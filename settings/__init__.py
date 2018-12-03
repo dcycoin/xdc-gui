@@ -16,7 +16,7 @@ from utils.common import getHomeDir, makeDir
 
 USER_AGENT = "XDC GUI Wallet"
 APP_NAME = "XDC GUI Wallet"
-VERSION = [0, 1, 0]
+VERSION = [0, 1, 1]
 
 
 _data_dir = makeDir(os.path.join(getHomeDir(), 'XDCGUIWallet'))
